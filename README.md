@@ -23,7 +23,7 @@
 
 🚀 Continuously learning and eager to take on technical challenges in multidisciplinary teams.
 
-📫 Contact / Portfolio: **https://portafolio-ingjosselmc.netlify.app/**
+📫 Contact / Portfolio: **https://josselmart.github.io/portafolioJossel/**
 <!--Intro end-->
 </p>
 <br>
